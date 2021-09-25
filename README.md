@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gervieb.
 - 👀 I’m interested in improving my programming and coding skills.
-- 🌱 I’m currently learning SQL, Jest, Enzyme and Sass.
+- 🌱 I’m currently learning SQL, Jest and Enzyme.
 - 💞️ I’m looking to contribute to open source projects.
 - 🌐 My portfolio - http://gerviebarczyk.com/
 - 📫 Reach me on LinkedIn - https://www.linkedin.com/in/gerviebar/
