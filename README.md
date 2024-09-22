@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gervieb.
 - 👀 I’m interested in improving my programming and coding skills.
-- 🌐 My portfolio - http://gerviebarczyk.com/
+- 🌐 My portfolio - www.gerviebarczyk.com
 - 📫 Reach me on LinkedIn - https://www.linkedin.com/in/gerviebar/
 
 <!---
